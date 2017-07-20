@@ -1,0 +1,12 @@
+body{
+	background: url(../images/bg.jpg) no-repeat;
+	background-size: cover;
+}
+
+form {
+	margin-top: 50px;
+}
+
+.card-wrapper{
+	margin-top: 40px;
+}
